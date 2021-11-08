@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sacred-chime
 - 🌱 I’m currently taking a BSCE at Drexel University.
 - 📫 Contact:  
-        E-mail: cmstroh99@gmail.com  
-        Discord: Sacred Chime#9582  
-        Twitter: @SacredChime  
+&emsp;E-mail: cmstroh99@gmail.com  
+&emsp;Discord: Sacred Chime#9582  
+&emsp;Twitter: @SacredChime  
         
